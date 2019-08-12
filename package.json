@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lijiredback/Vue-lite/issues"
   },
-  "homepage": "https://github.com/lijiredback/Vue-lite#readme"
+  "homepage": "https://github.com/lijiredback/Vue-lite#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "babel-loader": "^8.0.6"
+  }
 }
