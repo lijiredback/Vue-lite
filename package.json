@@ -1,0 +1,19 @@
+{
+  "name": "vue-lite",
+  "version": "1.0.0",
+  "description": "learn vue source",
+  "main": "./core/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijiredback/Vue-lite.git"
+  },
+  "author": "Aaron Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijiredback/Vue-lite/issues"
+  },
+  "homepage": "https://github.com/lijiredback/Vue-lite#readme"
+}
